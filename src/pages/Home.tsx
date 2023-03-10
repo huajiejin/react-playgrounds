@@ -1,4 +1,4 @@
 
 export function Home() {
-	return <>Home</>
+	return <h1 className="underline">Home</h1>
 }
