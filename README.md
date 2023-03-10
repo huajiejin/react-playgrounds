@@ -10,6 +10,10 @@
 
 `npm i react-router-dom`
 
+### Redux
+
+`npm i @reduxjs/toolkit react-redux`
+
 ### Tailwind CSS
 
 https://tailwindcss.com/docs/guides/vite
